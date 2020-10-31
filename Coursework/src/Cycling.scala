@@ -9,7 +9,7 @@ import scala.io.StdIn.readLine
 import scala.collection.immutable.ListMap
 import scala.math.Ordering.Float.TotalOrdering
 
-
+ 
 object Cycling extends App {
 
   //read data from textfile
